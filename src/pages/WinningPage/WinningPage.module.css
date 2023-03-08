@@ -1,0 +1,27 @@
+.section {
+    background-image: url("../../img/BackGround.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-color: #331f02;
+    height: 100vh;
+  }
+
+  .title {
+    color: #ffffff;
+    font-size: xx-large;
+  }
+
+  .textWrapper {
+    width: 80%;
+    background: #191714b1;
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 62px;
+    margin: 15px auto;
+    padding: 15px;
+  }
+  
+  .text {
+    color: #ffffff;
+  }

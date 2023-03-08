@@ -1,0 +1,12 @@
+.img {
+  display: block;
+  width: 100px;
+  height: auto;
+  background: #f8a81d81;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: #ab2727;
+}

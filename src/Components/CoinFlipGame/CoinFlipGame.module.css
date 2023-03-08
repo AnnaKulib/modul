@@ -1,0 +1,28 @@
+.btnAgain {
+  color: #ffffff;
+  max-width: 150px;
+  background: #291111;
+  border: #767676 1px solid;
+}
+
+.textWrapper {
+  width: 60%;
+  background: #191714b1;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 62px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.text {
+  color: #ffffff;
+}
+.img {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: inherit;
+}

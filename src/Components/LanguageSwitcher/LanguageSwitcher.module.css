@@ -1,0 +1,6 @@
+.btnAgain {
+  border: #767676 1px solid;
+}
+.btnAgain:hover {
+  border: #000000 1px solid;
+}

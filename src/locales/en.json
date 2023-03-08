@@ -1,0 +1,21 @@
+{
+  "header": {
+    "deposit": "Deposit",
+    "balance": "Balance"
+  },
+  "buttonAgain": {
+    "again": "Try again"
+  },
+    "gamesPage": {
+      "title": "Available games",
+      "coinFlip": "Coin flip",
+      "guessDoor": "Guess the door",
+      "guessNumber": "Guess the number",
+      "goal": "The aim of the game is to double your initial deposit by playing the games"
+    },
+    "results": {
+      "results": "Results",
+      "balance": "Balance"
+    }
+  }
+  

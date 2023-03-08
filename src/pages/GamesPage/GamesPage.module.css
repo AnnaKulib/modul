@@ -1,0 +1,105 @@
+.section {
+  background-image: url("../../img/BackGround.png");
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-color: #331f02;
+  height: 100vh;
+}
+
+.main {
+  padding: 15px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.flexColBlock {
+  display: flex;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.textWrapper {
+  width: 60%;
+  background: #191714b1;
+  border: 1px solid #000000;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 62px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+
+.text {
+  color: #ffffff;
+  font-size: medium;
+  font-weight: bold;
+}
+/* .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 730px;
+  background: #f8a81d81;
+  border: 1px solid #000000;
+  margin-bottom: 10px;
+} */
+
+.swiper {
+  width: 600px;
+  height: 300px;
+}
+
+.swiperContainer {
+  position: relative;
+  max-height: 400px;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 15px;
+  overflow: hidden;
+  /* background: #f8a81d2e; */
+}
+
+.swiperButtonPrev,
+.swiperButtonNext {
+  color: #440376;
+  font-weight: bold;
+  font-size: 26px;
+  padding: 10px;
+}
+
+.gameCard {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+
+  max-width: 680px;
+  max-height: 340px;
+
+  height: auto;
+  padding: 10px 15px;
+  margin-bottom: 20px;
+}
+
+.img {
+  display: block;
+  max-width: 640px;
+  /* width: 100%; */
+  height: auto;
+  background-color: transparent;
+}
+.imgBig {
+  width: 220px;
+  height: 290px;
+}
+
+.title {
+  color: #ffffff;
+  font-size: xx-large;
+  /* background: #f8a81d81; */
+}
+
+.aside {
+  min-width: 240px;
+}
